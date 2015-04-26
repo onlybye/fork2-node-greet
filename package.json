@@ -2,7 +2,7 @@
   "name": "greet",
   "version": "1.0.0",
   "description": "simple ex",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "mocha"
   },
@@ -19,6 +19,7 @@
   },
   "devDependencies": {
     "chai": "^2.2.0",
+    "coffee-script": "^1.9.2",
     "mocha": "^2.2.4"
   }
 }
