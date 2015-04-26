@@ -10,4 +10,4 @@
 	}
 	
 }
-module.exports = {greet:greet}
+module.exports =greet;
